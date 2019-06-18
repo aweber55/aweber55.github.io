@@ -387,8 +387,10 @@ a:visited {
     display: inline-block;
     border: 3px solid #4aaaa5;
     margin: 30px;
-    width: 260px;
-    height: 300px;
+    /* width: 260px; */
+    width: 518px;
+    /* height: 300px; */
+    height: 406px;
     position: relative;
 }
 .gallery a {
