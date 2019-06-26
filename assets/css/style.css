@@ -387,6 +387,15 @@ a:visited {
     /* color: #cccccc; */
 }
 
+a.link2 {
+color: rgb(219, 51, 51);
+}
+a.link2:hover {
+    color: rgb(51, 53, 202);
+    }
+/* a.link2:visited {
+        color: rgb(202, 111, 51);
+        } */
 .gallery img:hover {
     opacity: .5;
     border: #4aaaa5 solid 6px;
